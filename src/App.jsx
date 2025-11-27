@@ -4,6 +4,8 @@ const App = () => {
       <h1>Rsbuild with React</h1>
       <p>Start building amazing things with Rsbuild.</p>
       <p>testowy paragraf</p>
+       <p>Start building amazing things with Rsbuild.</p>
+      <p>testowy paragraf</p>
     </div>
   );
 };
